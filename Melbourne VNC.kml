@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Melbourne VNC</name>
+	<visibility>1</visibility>
+	<color>8affffff</color>
+	<Icon>
+		<href>data/Melbourne_VNC_01DEC2022.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>-36.29956213292341</north>
+		<south>-39.3374510218123</south>
+		<east>147.8817621445262</east>
+		<west>142.051262144526</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

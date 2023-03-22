@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Australian Charts</name>
+	<open>1</open>
+	<Folder>
+		<name>VTC</name>
+		<open>1</open>
+		<Folder>
+			<name>Melbourne</name>
+			<open>1</open>
+			<GroundOverlay>
+				<name>Melbourne VTC</name>
+				<visibility>0</visibility>
+				<Icon>
+					<href>data/Melbourne_VTC_01DEC2022.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>-37.02344166666666</north>
+					<south>-38.55498055555555</south>
+					<east>145.6254166666667</east>
+					<west>144.1466666666666</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Melbourne VTC Insert</name>
+				<visibility>0</visibility>
+				<Icon>
+					<href>data/Melbourne_VTC_Insert_01DEC2022.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>-37.69229166666666</north>
+					<south>-38.15043055555555</south>
+					<east>145.4415555555556</east>
+					<west>144.5524194444445</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Melbourne VNC</name>
+				<color>85ffffff</color>
+				<Icon>
+					<href>/Users/sam/Documents/Australian Charts LittleNavMap/data/Melbourne_VNC_01DEC2022.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<gx:LatLonQuad>
+					<coordinates>
+						141.9704626365771,-39.33946415637229,0 147.9836008221157,-39.34403409596851,0 147.8648017402271,-36.2837710200965,0 142.0748471333665,-36.30437856140477,0 
+					</coordinates>
+				</gx:LatLonQuad>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+</Folder>
+</kml>

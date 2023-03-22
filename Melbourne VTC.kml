@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Melbourne VTC</name>
+	<color>82ffffff</color>
+	<visibility>1</visibility>
+	<Icon>
+		<href>data/Melbourne_VTC_01DEC2022.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>-37.02344166666666</north>
+		<south>-38.55498055555555</south>
+		<east>145.6254166666667</east>
+		<west>144.1466666666666</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
