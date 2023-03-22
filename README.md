@@ -1,6 +1,6 @@
 # Australian aviation charts For use in little nav map
 
-![littleNavMap with Melbourne VTC chart](https://github.com/samturner3/Australian-Charts-kml/blob/main/littleNavMap with Melbourne VTC chart.png?raw=true)
+![littleNavMap with Melbourne VTC chart](/assets/images/littleNavMap%20with%20Melbourne%20VTC%20chart.png)
 
 ## Instructions
 
