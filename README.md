@@ -1,4 +1,4 @@
-# Australian aviation charts For use in little nav map
+# Australian aviation VFR charts For use in little nav map
 
 ![littleNavMap with Melbourne VTC chart](/littleNavMap%20with%20Melbourne%20VTC%20chart.png)
 
