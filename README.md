@@ -4,7 +4,7 @@
 
 ## Instructions
 
-1. Download this file and extract it (zip).
+1. Download this repo and extract it (zip).
 2. In little nav map, go file --> add google earth klm
 3. Select one of the klm files from this folder
 4. You should see the chart overlay on the screen.
